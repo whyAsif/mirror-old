@@ -1,6 +1,9 @@
 
 {
 "stack": "container",
+      "CONFIG_FILE_URL": {
+            "value":"https://gist.githubusercontent.com/whyREX69/b805968cf41cee501af37d52d9dee278/raw/config.env",
+            }
 "addons": [
 
       {

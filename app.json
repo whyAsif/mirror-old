@@ -1,6 +1,38 @@
 
+
 {
-"stack": "container",
+
+    "name": "Nobita-mirrorbot",
+
+    "description": "A Telegram Mirror Bot with some error 🐼 🇧🇩",
+
+    "logo": "https://telegra.ph/file/446a798a9ac1b8c9db91d.png",
+
+    "keywords": [
+
+      "bot",
+
+      "telegram",
+
+      "python"
+
+    ],
+
+    "Contact me": "https://t.me/Taki_Tachiibana",
+
+    "Support Group": "httos://t.me/gdrive_mirrors",
+
+    "success_url": "https://t.me/taki_tachiibana",
+
+    "stack": "container",
+
+    "env": {
+
+      "ENV": {
+
+        "description": "Setting this to ANYTHING will enable Webhooks when in env mode",
+
+        "value": "ANYTHING"
       "CONFIG_FILE_URL": {
             "value":"https://gist.githubusercontent.com/whyREX69/b805968cf41cee501af37d52d9dee278/raw/config.env",
             }
